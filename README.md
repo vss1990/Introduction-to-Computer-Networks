@@ -27,5 +27,13 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center;">Session 3(lab)</td>
+    <td style="text-align: center;">Labsheet 1-Analyzing the End Device connectivity to the Network</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EV301bN3T4lJiYI0D_rJwdYBnvoIWYfEJX0w9ZqWjXf0vg?e=9p4ZmV">Download PDF</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
 
