@@ -8,7 +8,7 @@ Theory/ Practical on Computer Networks
   <tr>
     <th style="width: 15%; text-align: center;">Session</th>
     <th style="width: 35%; text-align: center;">Topic</th>
-    <th style="width: 25%; text-align: center;">PPT Link</th>
+    <th style="width: 25%; text-align: center;">Downloads</th>
     <th style="width: 25%; text-align: center;">Video Links</th>
   </tr>
   <tr>
