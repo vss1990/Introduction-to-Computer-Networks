@@ -42,7 +42,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">
       <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/ETK1l1ialmlCgE7tXHZklWUB1xqbL99Md8-O_30FNc-deQ?e=vNet1Y">Download ppt</a>
     </td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"> <a href="https://www.youtube.com/watch?v=hm1y4LsphQQ">Watch Video</a></td>
   </tr>
    <tr>
     <td style="text-align: center;">Session 5</td>
