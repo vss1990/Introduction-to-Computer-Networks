@@ -44,5 +44,13 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center;">Session 5</td>
+    <td style="text-align: center;">Practise Problems</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Eb_mWLDWV5ROsM0jKLjQTV4BnkKLfEXE2tQMq_sdW8juxQ?e=tBzSl9">Download ppt</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
 
