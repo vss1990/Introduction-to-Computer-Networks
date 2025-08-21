@@ -52,5 +52,13 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center;">Session 6</td>
+    <td style="text-align: center;">Lab Sheet 2</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EWb0zSodXb1Irm7OFUpaHkIBX6EYxS0zVFKLwAgDSUUMow?e=qWs7wx">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
 
