@@ -40,7 +40,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">Session 4</td>
     <td style="text-align: center;">Access Networks, Performance, Delay, Throughput</td>
     <td style="text-align: center;">
-      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/ETK1l1ialmlCgE7tXHZklWUB1xqbL99Md8-O_30FNc-deQ?e=vNet1Y">Download ppt</a>
+      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/ETK1l1ialmlCgE7tXHZklWUB1xqbL99Md8-O_30FNc-deQ?e=vNet1Y">Download PPT</a>
     </td>
     <td style="text-align: center;"> <a href="https://www.youtube.com/watch?v=hm1y4LsphQQ">Watch Video</a></td>
   </tr>
@@ -48,7 +48,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">Session 5</td>
     <td style="text-align: center;">Practise Problems</td>
     <td style="text-align: center;">
-      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Eb_mWLDWV5ROsM0jKLjQTV4BnkKLfEXE2tQMq_sdW8juxQ?e=tBzSl9">Download ppt</a><br>
+      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Eb_mWLDWV5ROsM0jKLjQTV4BnkKLfEXE2tQMq_sdW8juxQ?e=tBzSl9">Download PPT</a><br>
       <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/ESz14-tDhJpPlkQa5J6GIVQB0ta5JX4m-PRwqiezCQdvtg?e=JvSfMg">Download Solution</a>
     </td>
     <td style="text-align: center;"></td>
@@ -73,7 +73,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">Session 7</td>
     <td style="text-align: center;">"Protocol Layers, Service Models"</td>
     <td style="text-align: center;">
-      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Ea82YzjemdhPjpcw5kvAJ1gBs5fqSt2axTJN7STAFZPSUg?e=dth0bi">Download ppt</a>
+      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Ea82YzjemdhPjpcw5kvAJ1gBs5fqSt2axTJN7STAFZPSUg?e=dth0bi">Download PPT</a>
     </td>
     <td style="text-align: center;"></td>
   </tr>
