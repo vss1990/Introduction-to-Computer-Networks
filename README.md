@@ -68,5 +68,13 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center;">Session 7</td>
+    <td style="text-align: center;">"Protocol Layers, Service Models"</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EbinHeC4-hRLjCOTdfmb0z8BFq1Zal35fEdT9xTwaCKA1g?e=oaa9rg">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
 
