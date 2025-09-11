@@ -91,5 +91,14 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EdlwZE1aQqhKmQPCzHg7W14BusRy56xK75rE0Rfh22T64w?e=Nmu8e0">Download pdf</a>
     </td>
     <td style="text-align: center;"></td>
+
+  <tr>
+    <td style="text-align: center;">Submission </td>
+    <td style="text-align: center;">Lab Sheet 2</td>
+    <td style="text-align: center;">
+      <a href="https://forms.office.com/r/tqhHZqdHP9">Upload Labsheet</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
 
