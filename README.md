@@ -76,7 +76,9 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Ea82YzjemdhPjpcw5kvAJ1gBs5fqSt2axTJN7STAFZPSUg?e=dth0bi">Download PPT</a>
     </td>
     <td style="text-align: center;"></td>
-         <td style="text-align: center;">Session 8,9,10</td>
+   </tr>
+  <tr>
+    <td style="text-align: center;">Session 8,9,10</td>
     <td style="text-align: center;">Application Layer :Web and HTTP​,E-mail, SMTP, IMAP​,FTP,The Domain Name System DNS​</td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EZLTR1PAmQZElmYVfRgViP0BSIRCKlpFP7B0xp58ozM0pA?e=WMDGDf ">Download PPT</a>
     </td>
