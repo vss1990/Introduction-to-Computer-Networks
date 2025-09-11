@@ -84,5 +84,12 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center;">Session 11</td>
+    <td style="text-align: center;">Lab Sheet 3 - Basic HTTP GET/response interaction, The HTTP CONDITIONAL GET/response interaction, Retrieving Long Documents,HTML Documents with Embedded Objects</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EdlwZE1aQqhKmQPCzHg7W14BusRy56xK75rE0Rfh22T64w?e=Nmu8e0">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td>
 </table>
 
