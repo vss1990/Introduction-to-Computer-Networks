@@ -90,7 +90,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">
       <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EdlwZE1aQqhKmQPCzHg7W14BusRy56xK75rE0Rfh22T64w?e=Nmu8e0">Download pdf</a>
     </td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td></tr>
 
   <tr>
     <td style="text-align: center;">Submission </td>
@@ -100,5 +100,20 @@ Theory/ Practical on Computer Networks
     </td>
     <td style="text-align: center;"></td>
   </tr>
+    <tr>
+    <td style="text-align: center;">Session 12</td>
+    <td style="text-align: center;">Transport Layer​</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EdfilggyMn5DiV-3GVxPbJ4BmeRNAISnqiQE9xaM7hciaQ?e=VJW21s">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+   <tr>
+    <td style="text-align: center;">Session 13</td>
+    <td style="text-align: center;">Lab Sheet 4 - Analyzing UDP traffic</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EXDVUBYoDgRKrl9imZSnFe8BGVMPcTEdzCXiLDtL_1jUgQ?e=NIiDyI">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td></tr>
+  
 </table>
 
