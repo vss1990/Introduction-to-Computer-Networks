@@ -114,6 +114,13 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EXDVUBYoDgRKrl9imZSnFe8BGVMPcTEdzCXiLDtL_1jUgQ?e=NIiDyI">Download pdf</a>
     </td>
     <td style="text-align: center;"></td></tr>
+      <tr>
+    <td style="text-align: center;">Session 13</td>
+    <td style="text-align: center;">Lab Sheet 5 - Packet Tracer</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EdZJbW9nv3FMnH6Z4hkGfH8B-fj4qMwQfTB4lHkM5zrtqw?e=08n3d6">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td></tr>
   
 </table>
 
