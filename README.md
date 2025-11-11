@@ -121,6 +121,14 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EdZJbW9nv3FMnH6Z4hkGfH8B-fj4qMwQfTB4lHkM5zrtqw?e=08n3d6">Download pdf</a>
     </td>
     <td style="text-align: center;"></td></tr>
+       <td style="text-align: center;"></td></tr>
+      <tr>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;">Midterm Answer Key</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQCzM7ePUzIaRY2qZovHATGiAayYFpVVDoQxhPmxv2YLax4?e=e3ACdx">View answer key</a>
+    </td>
+    <td style="text-align: center;"></td></tr>
   
 </table>
 
