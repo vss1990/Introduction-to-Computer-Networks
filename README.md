@@ -129,6 +129,20 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQCzM7ePUzIaRY2qZovHATGiAayYFpVVDoQxhPmxv2YLax4?e=e3ACdx">View answer key</a>
     </td>
     <td style="text-align: center;"></td></tr>
+    <tr>
+    <td style="text-align: center;">Session 14</td>
+    <td style="text-align: center;">IP Addressing​</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDnCZ-TRkI1S58NTITYXvsOAZUk0VtJSpmNo9BgoZPUyUc?e=i0Io2C">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">Session 15</td>
+    <td style="text-align: center;">Lab Sheet 6 - Packet Tracer Continued</td>
+    <td style="text-align: center;">
+      <a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQBQoAQjUmjSQYXGEPRq7CfYAZXtr5a778J1KDXbAvDVXGk?e=4KH5GV">Download pdf</a>
+    </td>
+    <td style="text-align: center;"></td></tr>
   
 </table>
 
