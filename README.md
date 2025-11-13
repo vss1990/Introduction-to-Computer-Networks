@@ -140,7 +140,7 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;">Session 15</td>
     <td style="text-align: center;">Lab Sheet 6 - Packet Tracer Continued</td>
     <td style="text-align: center;">
-      <a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQBQoAQjUmjSQYXGEPRq7CfYAZXtr5a778J1KDXbAvDVXGk?e=4KH5GV">Download pdf</a>
+      <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/IQB8Vj8mw7I8SbkQfHlRTXApAQkq9ykLXVld44DfOB3ZbhE?e=IxrYpw">Download pdf</a>
     </td>
     <td style="text-align: center;"></td></tr>
   
