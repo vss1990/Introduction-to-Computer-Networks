@@ -143,6 +143,47 @@ Theory/ Practical on Computer Networks
       <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/IQB8Vj8mw7I8SbkQfHlRTXApAQkq9ykLXVld44DfOB3ZbhE?e=IxrYpw">Download pdf</a>
     </td>
     <td style="text-align: center;"></td></tr>
+    <tr>
+    <td style="text-align: center;">Session 16</td>
+    <td style="text-align: center;">Network Layer Services,IP Fragmentation,DHCP,Routing Algorithms</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCjTXsX_6WZT7nGTy15xloTAbcQACBuVlLOz31UupeMu_k?e=A4guTb">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Session 17</td>
+    <td style="text-align: center;">Datalink Layer-Intoduction Error dtection,Parity,CRC</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDMgTjPg_C7S4st8LIIWCGFAcQMIcGNv5r2Ujve7ChT0LU?e=T31F6r">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">Session 18</td>
+    <td style="text-align: center;">Datalink Layer-Intoduction Error dtection,Parity,CRC</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDMgTjPg_C7S4st8LIIWCGFAcQMIcGNv5r2Ujve7ChT0LU?e=T31F6r">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Session 19</td>
+    <td style="text-align: center;">Multiple Access Protocols</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDdC0dr2ovKQ7jLysSvu0xzARM5EB9PMGF5l8E1zFiNAOw?e=4k3CcK">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
+   <tr>
+    <td style="text-align: center;">Session 20</td>
+    <td style="text-align: center;">ARP</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDauwp17H2ISLVQQ9Do7SzaAfqKhZRJZxiWubppRJE-zjQ?e=vicnrx">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr> <tr>
+    <td style="text-align: center;">Session 21</td>
+    <td style="text-align: center;">Sniffing</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQB0qZsH7NuGTrGnOezOomwXAdbps_9LDRPoyH8RXbiajh0?e=EE2mJm">Download PPT</a>
+    </td>
+    <td style="text-align: center;"></td>
+  </tr>
   
 </table>
 
