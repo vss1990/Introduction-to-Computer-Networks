@@ -103,7 +103,7 @@ Theory/ Practical on Computer Networks
     <tr>
     <td style="text-align: center;">Session 12</td>
     <td style="text-align: center;">Transport Layer​</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EdfilggyMn5DiV-3GVxPbJ4BmeRNAISnqiQE9xaM7hciaQ?e=VJW21s">Download PPT</a>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQBgj5FWAC-UQYdtPGfxEbqdATDESwQS3gQVlAHwcZ9243c?e=izbg5J">Download PPT</a>
     </td>
     <td style="text-align: center;"></td>
   </tr>
