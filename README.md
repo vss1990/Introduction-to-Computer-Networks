@@ -167,7 +167,7 @@ Theory/ Practical on Computer Networks
   <tr>
     <td style="text-align: center;">Session 19</td>
     <td style="text-align: center;">Multiple Access Protocols</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDdC0dr2ovKQ7jLysSvu0xzARM5EB9PMGF5l8E1zFiNAOw?e=4k3CcK">Download PPT1</a><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQB0cxjCro_aTYn64PPDpi6EAXF8PmhSDaDcD9q7-JpamrM?e=Becqds">Download PPT2</a>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDdC0dr2ovKQ7jLysSvu0xzARM5EB9PMGF5l8E1zFiNAOw?e=4k3CcK">Download PPT1</a><br><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQB0cxjCro_aTYn64PPDpi6EAXF8PmhSDaDcD9q7-JpamrM?e=Becqds">Download PPT2</a>
     </td>
     <td style="text-align: center;"></td>
   </tr>
