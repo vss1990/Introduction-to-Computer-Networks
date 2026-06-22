@@ -53,7 +53,6 @@ Theory/ Practical on Computer Networks
     <td style="text-align: center;"></td>
   </tr>
    <tr>
-    <td style="text-align: center;">Submission </td>
     <td style="text-align: center;">Lab Sheet 1</td>
     <td style="text-align: center;">
       <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=D4lULeMYcEyXzbweXyH5y8gR_86G3_RCkPinnF9f-R9UQTIzOVpQS0hZVjAxNDZaVU5KWDE4UkFaQy4u">Upload Labsheet</a>
