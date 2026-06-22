@@ -1,7 +1,7 @@
 # Introduction-to-Computer-Networks
 Theory/ Practical on Computer Networks
 ## Course Plan
-[23AID206 Introduction-to-Computer-Networks Course Plan](https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/EUtsXTVX6mRGmYNIAOR4_b0Bjodr30DiRMUnm7hVYUtoeg?e=3Uwcf7)
+[23AID206 Introduction-to-Computer-Networks Course Plan] will be updated shortly)
 ## Topics and Study Materials
 ### Reference Text <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/Ec6EjO-nxjdBpWeVPWxvOQQBjbDCNzu1WVTQsOUaINiULg?e=eDuV9o">Download</a>
 <table border="1" width="100%">
